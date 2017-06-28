@@ -1,0 +1,22 @@
+{
+  "name": "two-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnnfrsofia/two-servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnnfrsofia/two-servers/issues"
+  },
+  "homepage": "https://github.com/jnnfrsofia/two-servers#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
